@@ -13,7 +13,7 @@ SendSMS is a Python Script  To Send SMS Wity Any Sender ID
 ```
 apt update && apt upgrade
 pkg install git
-git clone https://github.com/oggy3012/SendSMS
+git clone https://github.com/this-is-space/SendSMS
 pip install requests
 ```
 
